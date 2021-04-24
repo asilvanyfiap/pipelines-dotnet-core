@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/FIAP-5DVP/Azure.Net.Simple.App/_apis/build/status/asilvanyfiap.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/FIAP-5DVP/Azure.Net.Simple.App/_build/latest?definitionId=3&branchName=master)
+[![Build Status](https://dev.azure.com/FIAP-5DVP/Azure.Net.Simple.App/_apis/build/status/asilvanyfiap.pipelines-dotnet-core?branchName=master)
 
 # Sample ASP.NET Core application for Azure Pipelines docs
 
